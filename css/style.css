@@ -1,0 +1,13 @@
+body{
+    background: url(../img/0146eca258a99e1fb73386f0036097d8.jpg) lightblue
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color:brown;
+    font-size: 2rem;
+}
